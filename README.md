@@ -8,3 +8,4 @@ This script's dictionary.txt comes from the word list of ubuntu package 'wameric
 
 Noah Lidell
 April 2015
+# unix-passwd-cracker
